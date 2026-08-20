@@ -72,7 +72,7 @@ home_page = '''
    </div>
   </div>
   <footer class="footer">
-   <p style="color: white;">© 2022 MADE BY :- 𝕃𝔼𝔾𝔼ℕ𝔻 ℝ𝕆𝔹𝕀ℕ</p>
+   <p style="color: white;">© 2022 MADE BY :- 𝐑𝐊 𝐑𝐀𝐉𝐀 𝐗𝐖𝐃 𝐏𝐀𝐍𝐄𝐋</p>
    <p style="color: white;">𝘼𝙇𝙒𝘼𝙔𝙎 𝙊𝙉 𝙁𝙄𝙍𝙀 🔥 𝐆𝐀𝐍𝐆 𝙆𝙄 𝙈𝙆𝘾</p>
    <div class="mb-3">
     <p><a href="https://www.facebook.com/profile.php?id=100000943029350" style="color: blue;">Chat on Messenger</a></p>
